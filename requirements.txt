@@ -1,0 +1,8 @@
+# Opzionale: scommenta la riga seguente solo se hai una GPU NVIDIA (per scaricare PyTorch con CUDA)
+--extra-index-url https://download.pytorch.org/whl/cu134
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+albumentations>=1.4.0
+matplotlib>=3.7.0

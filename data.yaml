@@ -1,0 +1,24 @@
+path: .\datasets\wv
+train: images\train
+val: images\val
+test: images\test
+
+names: 
+  0: Person
+  1: Disposable Respirator with Valve
+  2: Disposable Respirator without Valve
+  3: Non-medical Mask
+  4: Surgical Mask
+  5: Eye Protection
+  6: Head Protection
+  7: Hands On Mouth
+  8: Hats
+  9: Neck Warmers and Bandanas
+  10: Sunglasses
+  11: Person with Smaller Box
+  12: Half Face Respirator
+  13: Full Face Respirator
+  14: FFP1
+  15: FFP2
+  16: FFP3
+  17: Other - Unknown

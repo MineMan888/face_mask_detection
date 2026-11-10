@@ -1,0 +1,18 @@
+Person
+Disposable Respirator With Valve
+Disposable Respirator Without Valve
+Non-Medical Mask
+Surgical Mask
+Eye Protection
+Head Protection
+Hands On Mouth
+Hats
+Neck Warmers And Bandanas
+Sunglasses
+Person with Smaller Box
+Half Face Respirator
+Full Face Respirator
+FFP1
+FFP2
+FFP3
+Other - Unknown
