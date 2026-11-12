@@ -1,7 +1,7 @@
-path: .\datasets\wv
-train: images\train
-val: images\val
-test: images\test
+path: .\dataset\
+train: images\training
+val: images\validation
+test: images\testing
 
 names: 
   0: Person
