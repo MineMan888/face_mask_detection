@@ -29,7 +29,7 @@ def trova_differenze(dir_immagini, dir_testi):
 
 if __name__ == "__main__":
     # Modifica questi percorsi inserendo i percorsi reali delle tue cartelle
-    cartella_immagini = r"C:\Users\manue\OneDrive\Desktop\dataset\images\testing"
-    cartella_testi =    r"C:\Users\manue\OneDrive\Desktop\dataset\labels\testing"
+    cartella_immagini = r".\dataset\images\testing"
+    cartella_testi =    r".\dataset\labels\testing"
     
     trova_differenze(cartella_immagini, cartella_testi)
